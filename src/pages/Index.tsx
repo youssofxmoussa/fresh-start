@@ -289,7 +289,7 @@ const Index = () => {
                 Instagram
               </a>
               <a 
-                href="https://wa.me/96171463532?text=👋%20*Hello%20Youssof!*%0A%0AI%20found%20your%20portfolio%20and%20I'm%20really%20impressed%20by%20your%20creative%20work!%20✨%0A%0A📌%20*I'm%20interested%20in:*%0A•%20Web%20Development%0A•%20UI/UX%20Design%0A•%20Creative%20Animations%0A%0A💼%20*Project%20Details:*%0A_Please%20describe%20your%20project%20here..._%%0A%0A📅%20*Timeline:*%20%5BYour%20deadline%5D%0A💰%20*Budget:*%20%5BYour%20budget%20range%5D%0A%0ALooking%20forward%20to%20creating%20something%20amazing%20together!%20🚀" 
+                href="https://wa.me/96171463532?text=👋%20*Hello%20Ismaïl!*%0A%0AI%20found%20your%20portfolio%20and%20I'm%20really%20impressed%20by%20your%20creative%20work!%20✨%0A%0A📌%20*I'm%20interested%20in:*%0A•%20Web%20Development%0A•%20UI/UX%20Design%0A•%20Creative%20Animations%0A%0A💼%20*Project%20Details:*%0A_Please%20describe%20your%20project%20here..._%%0A%0A📅%20*Timeline:*%20%5BYour%20deadline%5D%0A💰%20*Budget:*%20%5BYour%20budget%20range%5D%0A%0ALooking%20forward%20to%20creating%20something%20amazing%20together!%20🚀" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto group px-6 sm:px-8 py-3 sm:py-4 border border-primary/30 rounded-full font-medium text-sm sm:text-base text-foreground hover:bg-foreground hover:text-background transition-all inline-flex items-center justify-center gap-3"

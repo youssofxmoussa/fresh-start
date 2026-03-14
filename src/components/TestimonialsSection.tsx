@@ -48,7 +48,7 @@ const testimonials: Testimonial[] = [
     name: "David Park",
     role: "Founder",
     company: "StartupX",
-    content: "Youssof doesn't just build websites, he crafts digital experiences. The attention to micro-interactions and the overall polish is phenomenal.",
+    content: "Ismaïl doesn't just build websites, he crafts digital experiences. The attention to micro-interactions and the overall polish is phenomenal.",
     avatar: "DP",
     rating: 5
   }

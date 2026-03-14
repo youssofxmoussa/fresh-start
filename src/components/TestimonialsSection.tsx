@@ -21,7 +21,7 @@ const testimonials: Testimonial[] = [
     name: "Sarah Chen",
     role: "CEO",
     company: "TechVision Inc",
-    content: "Working with Youssof was an absolute game-changer. The attention to detail and the creativity brought to our project exceeded all expectations. The animations are buttery smooth!",
+    content: "Working with Ismaïl was an absolute game-changer. The attention to detail and the creativity brought to our project exceeded all expectations. The animations are buttery smooth!",
     avatar: "SC",
     rating: 5
   },

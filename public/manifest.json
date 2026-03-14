@@ -1,6 +1,6 @@
 {
-  "name": "Youssof Moussa - Creative Frontend Developer & UI/UX Designer",
-  "short_name": "Youssof Moussa",
+  "name": "Ismaïl Mustafa - Creative Frontend Developer & UI/UX Designer",
+  "short_name": "Ismaïl Mustafa",
   "description": "Award-winning creative frontend web developer and UI/UX designer from Lebanon. Specializing in immersive digital experiences with GSAP animations, React applications, and modern web technologies.",
   "start_url": "/",
   "id": "/",
@@ -83,7 +83,7 @@
       "src": "/og-image.jpg",
       "sizes": "1200x630",
       "type": "image/jpeg",
-      "label": "Youssof Moussa Portfolio - Homepage"
+      "label": "Ismaïl Mustafa Portfolio - Homepage"
     }
   ],
   "shortcuts": [

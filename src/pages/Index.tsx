@@ -88,8 +88,8 @@ const Index = () => {
     'NODE.JS', 'TAILWIND', 'WEBGL', 'ANIMATIONS'
   ];
 
-  const nameLetters = 'Youssof'.split('');
-  const surnameLetters = 'Moussa'.split('');
+  const nameLetters = 'Ismaïl'.split('');
+  const surnameLetters = 'Mustafa'.split('');
 
   const roles = ['Developer', 'Designer', 'Creator', 'Innovator'];
 

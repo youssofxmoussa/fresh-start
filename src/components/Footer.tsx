@@ -57,7 +57,7 @@ const Footer = () => {
           ref={leftTextRef}
           className="text-xs sm:text-sm text-muted-foreground font-light"
         >
-          © 2026 Youssof Moussa. All rights reserved.
+          © 2026 Ismaïl Mustafa. All rights reserved.
         </p>
         <p 
           ref={rightTextRef}

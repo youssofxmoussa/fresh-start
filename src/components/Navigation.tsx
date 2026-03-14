@@ -35,7 +35,7 @@ const Navigation = () => {
             onMouseEnter={playHover}
             onClick={playClick}
           >
-            YM<span className="text-muted-foreground">.</span>
+            IM<span className="text-muted-foreground">.</span>
           </motion.a>
 
           {/* Desktop Nav Links */}

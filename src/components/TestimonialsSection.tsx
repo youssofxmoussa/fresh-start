@@ -21,7 +21,7 @@ const testimonials: Testimonial[] = [
     name: "Sarah Chen",
     role: "CEO",
     company: "TechVision Inc",
-    content: "Working with Youssof was an absolute game-changer. The attention to detail and the creativity brought to our project exceeded all expectations. The animations are buttery smooth!",
+    content: "Working with Ismaïl was an absolute game-changer. The attention to detail and the creativity brought to our project exceeded all expectations. The animations are buttery smooth!",
     avatar: "SC",
     rating: 5
   },
@@ -48,7 +48,7 @@ const testimonials: Testimonial[] = [
     name: "David Park",
     role: "Founder",
     company: "StartupX",
-    content: "Youssof doesn't just build websites, he crafts digital experiences. The attention to micro-interactions and the overall polish is phenomenal.",
+    content: "Ismaïl doesn't just build websites, he crafts digital experiences. The attention to micro-interactions and the overall polish is phenomenal.",
     avatar: "DP",
     rating: 5
   }

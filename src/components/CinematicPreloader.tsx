@@ -14,8 +14,8 @@ const CinematicPreloader = ({ onComplete }: CinematicPreloaderProps) => {
   const counterRef = useRef<HTMLSpanElement>(null);
   const particlesRef = useRef<HTMLDivElement>(null);
 
-  const name = "YOUSSOF";
-  const surname = "MOUSSA";
+  const name = "ISMAÏL";
+  const surname = "MUSTAFA";
 
   useEffect(() => {
     // Counter animation
